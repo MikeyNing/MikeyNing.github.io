@@ -1,0 +1,20 @@
+User-agent: * 
+Allow: /
+Allow: /categories/
+Allow: /tags/
+Allow: /archives/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/
+Disallow: /img/
+Disallow: /lib/
+
+Sitemap: https://XXXXXXXXXXX.XXX/sitemap.xml
+Sitemap: https://XXXXXXXXXXX.XXX/baidusitemap.xml
+
+
+作者: Justlovesmile
+链接: https://blog.justlovesmile.top/posts/c8972b63.html
+来源: Justlovesmile's BLOG
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
